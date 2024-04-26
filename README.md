@@ -1,8 +1,7 @@
 ![agronomia](https://github.com/Bia-26sousa/desenvolvimento_web/assets/163938200/42b1ecb1-96b7-4596-bed6-00d3b61e898b)
-
-# INTESIVÃO DE AGRONOMIA
+  # INTESIVÃO DE AGRONOMIA  
 ## O nosso trabalho foi feito para desenvolver um projeto intensivo de agronomia. O projeto está dividido de três formas, sendo elas o corpo (index), a equipe (nome e dados dos participantes que desenvolveram o projeto) e a sugestão (onde as pessoas podem fornecer críticas construtivas ou elogios em relação ao código).
-## _CORPO (index)_
+> ## _CORPO (index)_
 * Define várias meta tags, como título, descrição, palavras-chave, etc., que são usadas para fornecer informações sobre a página para os motores de busca e redes sociais.
 * Define meta tags para Open Graph Protocol (OGP) para melhorar a visualização em redes sociais.
 ### Links para Estilos Externos:
@@ -24,7 +23,7 @@
 * Carrega um script JavaScript externo para adicionar funcionalidades adicionais à página.
 * Um pequeno script adiciona uma classe column-empty aos elementos que não têm conteúdo visível, provavelmente para fins de estilização ou manipulação posterior.
   
-## _EQUIPE_
+> ## _EQUIPE_ 
 ### Metadados: 
 * Define informações sobre o documento, como título, idioma, e descrição. Também inclui metadados para redes sociais e pré-visualização.
 ### Links Externos: 
@@ -39,7 +38,7 @@
 ### Scripts Finais: 
 * Mais scripts para funcionalidades adicionais na página, como detecção de conteúdo vazio em colunas.
   
-## _SUJESTÕES_
+> ## _SUJESTÕES_
 ### Metadados: 
 * Define o idioma da página, conjunto de caracteres e configuração de visualização para dispositivos móveis.
 ### Título: 
