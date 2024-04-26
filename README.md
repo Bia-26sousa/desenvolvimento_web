@@ -11,6 +11,15 @@
 * Carrega vários arquivos CSS externos para estilizar a página em diferentes tamanhos de tela e dispositivos.
 ### Script JavaScript:
 * Inclui um script JavaScript que parece ser responsável por habilitar o suporte a consulta de contêineres (container queries) em navegadores que não o suportam nativamente.
+### Framework
+1. Padronização:
+* Frameworks HTML muitas vezes definem padrões de codificação e organização de código, garantindo consistência em projetos e entre equipes.
+2. Produtividade:
+* Fornece componentes prontos para uso, como layouts de grade, formulários estilizados, botões e outros elementos de UI, os frameworks HTML ajudam a acelerar o processo de desenvolvimento, reduzindo a necessidade de escrever código repetitivo.
+3. Responsividade:
+* Muitos frameworks HTML são construídos com design responsivo em mente, o que significa que os sites e aplicativos desenvolvidos com esses frameworks serão compatíveis com uma variedade de dispositivos e tamanhos de tela.
+4. Compatibilidade entre navegadores:
+* Os frameworks HTML frequentemente incluem estilos e funcionalidades que são testados e compatíveis com vários navegadores, o que ajuda a garantir uma experiência consistente para os usuários, independentemente do navegador que estão usando.
 ### Estilos Embutidos:
 * Define estilos CSS embutidos para o elemento #imagemElemento, que parece ser um contêiner para exibir imagens em uma grade responsiva.
 * Define regras de mídia para ajustar o tamanho das imagens dentro do #imagemElemento em dispositivos com largura de tela menor que 480 pixels.
@@ -25,6 +34,21 @@
 ### Scripts e Funcionalidades Adicionais:
 * Carrega um script JavaScript externo para adicionar funcionalidades adicionais à página.
 * Um pequeno script adiciona uma classe column-empty aos elementos que não têm conteúdo visível, provavelmente para fins de estilização ou manipulação posterior.
+
+  > ## _SUJESTÕES_
+### Metadados: 
+* Define o idioma da página, conjunto de caracteres e configuração de visualização para dispositivos móveis.
+### Título: 
+* Define o título da página como "Enviar Mensagem".
+### Estilos Embutidos: 
+* Define estilos diretamente no arquivo HTML para o corpo da página, container, formulário, etc. Isso inclui o layout geral, cores e tamanhos de fonte.
+### Corpo da Página:
+* Container: Uma área retangular centralizada na página, estilizada com margens, preenchimento, sombra e bordas arredondadas.
+* Título: Um título "Envie sua mensagem" centralizado dentro do container.
+* Formulário: Um formulário para enviar uma mensagem, contendo um campo de texto para a mensagem e um botão de envio.
+* Status: Uma área abaixo do formulário para exibir mensagens de status, como "Mensagem enviada com sucesso!" ou erros de envio.
+### Script JavaScript: 
+* Adiciona funcionalidade ao formulário para enviar dados para o arquivo "enviar_email.php" usando o método POST. Se a resposta for bem-sucedida, exibe uma mensagem de sucesso; caso contrário, exibe uma mensagem de erro.
   
 > ## _EQUIPE_ 
 ### Metadados: 
@@ -40,20 +64,22 @@
 * As fotos dos membros da equipe são exibidas com seus respectivos nomes e informações de contato.
 ### Scripts Finais: 
 * Mais scripts para funcionalidades adicionais na página, como detecção de conteúdo vazio em colunas.
-  
-> ## _SUJESTÕES_
-### Metadados: 
-* Define o idioma da página, conjunto de caracteres e configuração de visualização para dispositivos móveis.
-### Título: 
-* Define o título da página como "Enviar Mensagem".
-### Estilos Embutidos: 
-* Define estilos diretamente no arquivo HTML para o corpo da página, container, formulário, etc. Isso inclui o layout geral, cores e tamanhos de fonte.
-### Corpo da Página:
-* Container: Uma área retangular centralizada na página, estilizada com margens, preenchimento, sombra e bordas arredondadas.
-* Título: Um título "Envie sua mensagem" centralizado dentro do container.
-* Formulário: Um formulário para enviar uma mensagem, contendo um campo de texto para a mensagem e um botão de envio.
-* Status: Uma área abaixo do formulário para exibir mensagens de status, como "Mensagem enviada com sucesso!" ou erros de envio.
-### Script JavaScript: 
-* Adiciona funcionalidade ao formulário para enviar dados para o arquivo "enviar_email.php" usando o método POST. Se a resposta for bem-sucedida, exibe uma mensagem de sucesso; caso contrário, exibe uma mensagem de erro.
+<table>
+  <tr>
+    <td>Gerente de Projetos</td>
+    <td>Especialista em SEO</td>
+    <td>Desenvolvedor Back-End</td>
+    <td>Desenvolvedor Front-End</td>
+    <td>Analista de Sistema</td>
+  </tr>
+  <td>Anália Beatriz </td>
+  <td>Diogo Cezar</td>
+  <td>Fernando Diogo</td>
+  <td>João Victor</td>
+  <td>Kemmilly Andrade</td>
+   <tr>
+     
+   </tr>
+</table>
 
 
