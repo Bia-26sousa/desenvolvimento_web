@@ -1,5 +1,8 @@
-![agronomia](https://github.com/Bia-26sousa/desenvolvimento_web/assets/163938200/42b1ecb1-96b7-4596-bed6-00d3b61e898b)
-  # INTESIVÃO DE AGRONOMIA  
+<p align="center">
+  <img src="https://github.com/Bia-26sousa/desenvolvimento_web/assets/163938200/64ba3247-b29d-4cda-ab26-a1a3c6696c4a" width="800" >
+</p>
+
+# &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;INTESIVÃO DE AGRONOMIA&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ## O nosso trabalho foi feito para desenvolver um projeto intensivo de agronomia. O projeto está dividido de três formas, sendo elas o corpo (index), a equipe (nome e dados dos participantes que desenvolveram o projeto) e a sugestão (onde as pessoas podem fornecer críticas construtivas ou elogios em relação ao código).
 > ## _CORPO (index)_
 * Define várias meta tags, como título, descrição, palavras-chave, etc., que são usadas para fornecer informações sobre a página para os motores de busca e redes sociais.
